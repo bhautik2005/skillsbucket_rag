@@ -1,0 +1,30 @@
+{
+    "course_name": "Design Thinking",
+    "source": "https://www.skillsbucket.in/design-thinking/",
+    "category": "Soft Skills",
+    "sections": [
+        {
+            "section": "Overview",
+            "content": "Design thinking is an innovative approach to resolve complex business problems by using its ‘human centred approach’. It helps organisations to differentiate & provide a competitive edge in market. Each steps of design thinking provokes & helps you to define better solutions and experiences, taking customer centricity into account. This approach is extremely helpful for organisations that are facing challenges at micro or macro level. Companies like IBM, Apple, Airbnb, P&G have reaped financial benefits after adopting this approach."
+        },
+        {
+            "section": "Learning Outcomes",
+            "content": [
+                "Understand Design thinking its key concepts and principles",
+                "Develop design thinking mindset to approach challenges",
+                "Understand design thinking steps – defining problem statement, ideating, prototyping &testing your product before launching",
+                "Practice design thinking through brainstorming and lateral thinking in teams",
+                "Learn skills to become an effective designer",
+                "Learn how to apply design thinking steps to make product that delight your customer by engaging in empathetic interactions"
+            ]
+        },
+        {
+            "section": "Who should attend",
+            "content": [
+                
+                "Middle Level professionals",
+                "Senior level professionals"
+            ]
+        }
+    ]
+}

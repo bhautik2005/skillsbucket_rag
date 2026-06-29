@@ -1,0 +1,12 @@
+{
+    "company": "Skillsbucket",
+    "website": "https://www.skillsbucket.in",
+    "email": "info@skillsbucket.in",
+    "phone": "+91-XXXXXXXXXX",
+    "location": "Ahmedabad, Gujarat",
+    "delivery_modes": [
+        "Online",
+        "Offline",
+        "Hybrid"
+    ]
+}

@@ -1,0 +1,49 @@
+{
+  "page_title": "The Journey of Excellence Through Competency Mapping",
+  "quote": {
+    "text": "The test of true competence is the end result",
+    "author": "L Ron Hubbard"
+  },
+  "competency_mapping_definition": "Competency mapping is the process of identifying the set of competencies and related proficiency levels needed to be successful in specific job roles or organization.",
+  "business_context": "Organizations today need to be adaptable and skillful to deal with challenges arising due to the VUCA (Volatile, uncertain, complex and ambiguous) environment. What makes successful organizations tide over better than others, are the competencies and mindsets of people working for it- the Human Capital. Hence, the need of employing the right skill set as well as training and nurturing the people for the relevant competencies is the need of the hour. And this is where competency mapping becomes imperative – to develop an enabling work culture in the organization and make it ‘Future Ready’.",
+  "benefits_of_competency_mapping": [
+    "Exact Job Evaluation",
+    "Perfect Recruitment and Selection",
+    "Definite Gap Analysis",
+    "Benchmarking Performance Management",
+    "Self Career Progression Maps",
+    "Effective Learning and Development"
+  ],
+  "skillsbucket_competency_offerings": [
+    {
+      "offering_title": "Defining Job Descriptions",
+      "description": "We create comprehensive job descriptions indicating both technical and behavioural requirements for each job role in the organization along with their proficiency level tags."
+    },
+    {
+      "offering_title": "Designing competency frameworks",
+      "description": "We study the vision of the company and the industry best practices to define the competencies and help to create a competency framework for the organization."
+    },
+    {
+      "offering_title": "Competency Assessments",
+      "description": "We use variety of tools to make our competency based assessment as specific as possible.",
+      "assessment_tools": [
+        "Interviews of stakeholders",
+        "Focus group study",
+        "Psychometric assessments",
+        "Group Discussions",
+        "On the job observations"
+      ]
+    },
+    {
+      "offering_title": "Competency Mapping & Gap Analysis",
+      "description": "We create a visual map of the competencies and compare it with internal and global benchmarks."
+    },
+    {
+      "offering_title": "Training Need Analysis",
+      "description": "We conduct a comprehensive training need analysis at the individual, occupational and organizational level; by understanding the specific challenges of the organization. We also help in preparing a comprehensive training calendar."
+    }
+  ],
+  "footer": {
+    "copyright": "Copyright ©2021 Skillsbucket . All rights reserved."
+  }
+}

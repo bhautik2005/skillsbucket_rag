@@ -1,0 +1,74 @@
+{
+  "document_title": "Skillsbucket Standard Terms and Commercial Conditions",
+  "version": "2026.1",
+  "last_updated": "January 2026",
+  "scope": "These terms govern all professional training interventions, executive coaching corporate cycles, and consulting delivery metrics rendered by Skillsbucket to its commercial clients.",
+  "commercial_terms": {
+    "proposal_validity": {
+      "clause_title": "Validity of Commercial Proposal",
+      "text": "All financial quote structures, trainer allocation windows, and custom commercial rates provided in Skillsbucket proposals remain strictly valid for a duration of 45 calendar days from the date of official digital submission to the client.",
+      "grace_period_days": 45
+    },
+    "payment_milestones": [
+      {
+        "milestone_stage": "Mobilization Advance",
+        "percentage_due": 40,
+        "trigger_event": "Signing of the Master Services Agreement (MSA) and initial content alignment diagnostic phase.",
+        "terms": "Payable within 7 business days of invoice generation prior to any resource deployment."
+      },
+      {
+        "milestone_stage": "Mid-Term Execution",
+        "percentage_due": 40,
+        "trigger_event": "Completion of 50% of the scheduled live training modules or coaching cycles.",
+        "terms": "Payable within 10 business days of mid-point milestone review sign-off."
+      },
+      {
+        "milestone_stage": "Post-Delivery Assessment",
+        "percentage_due": 20,
+        "trigger_event": "Completion of all training deliveries and official submission of the 30-day Post-Training Evaluation Matrix Impact Report.",
+        "terms": "Final balance settlement within 15 business days of delivery closeout."
+      }
+    ],
+    "taxation_and_levies": {
+      "clause_text": "All commercial fee structures quoted inside the proposals are strictly exclusive of applicable government statutory levies and taxes (including Goods and Services Tax - GST). These will be charged additionally over and above the base contract value on all generated invoices."
+    }
+  },
+  "logistics_and_hospitality_policy": {
+    "on_site_deployments": {
+      "client_responsibilities": [
+        "Provision of modern, fully functional training venue with optimal seating infrastructure.",
+        "High-definition Audio-Visual (AV) infrastructure including dual cordless microphones, projectors, and functional whiteboards.",
+        "Necessary workshop catering including refreshments, snacks, and lunch layouts for all validated participants and Skillsbucket facilitators."
+      ],
+      "trainer_travel_expenses": "For all physical outstation training deployments requiring long-distance travel, logistics including premium flight arrangements, airport transits, and comfortable hotel lodging for Skillsbucket trainers will be arranged directly or billed at actuals back to the client organization."
+    }
+  },
+  "cancellation_and_rescheduling_framework": {
+    "notice_windows": [
+      {
+        "days_prior_to_event": "Greater than 15 business days",
+        "penalty_fee_percentage": 0,
+        "action": "The training cohort can be rescheduled to a mutually agreeable alternate calendar date without incurring any content or trainer penalties."
+      },
+      {
+        "days_prior_to_event": "Between 7 and 14 business days",
+        "penalty_fee_percentage": 25,
+        "action": "A 25% administrative mobilization fee of the targeted cohort value will be charged to offset locked trainer allocation windows."
+      },
+      {
+        "days_prior_to_event": "Less than 7 business days",
+        "penalty_fee_percentage": 100,
+        "action": "The session will be considered fully rendered and the client remains liable for the total budgeted cost due to immediate resource commitment constraints."
+      }
+    ]
+  },
+  "intellectual_property_and_governance": {
+    "ownership_clause": {
+      "title": "Intellectual Property Rights (IPR)",
+      "text": "All proprietary training handbooks, framework slides, visual toolkits, instructional simulation modules, and behavioral metrics templates developed or presented by Skillsbucket remain the exclusive intellectual property of Skillsbucket. The client receives a non-transferable, internal-use-only license for its participating staff members, but cannot copy, alter, resell, or distribute the content external to the company boundaries."
+    },
+    "confidentiality": {
+      "text": "Both parties agree to treat all business data, human capital assessment scores, strategy roadmaps, and operational pipeline records shared during this project loop as strictly confidential. No parameters will be disclosed to external third-party bodies without receiving clear, explicit written consent."
+    }
+  }
+}

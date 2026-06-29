@@ -1,0 +1,41 @@
+{
+  "page_title": "Train the Trainer (TTT)",
+  "quote": {
+    "text": "You cannot teach a man anything. You can only help him discover it within himself.",
+    "author": "Galileo Galilei"
+  },
+  "program_overview": "Train the trainer program is a capacity building intervention for trainers or facilitators. We all want our training programs to appeal to a diverse training audience.",
+  "business_context": "At Skillsbucket, we use powerful techniques and psychological approaches to help you design and deliver a training program that is simple yet impactful. We introduce you to basis pedagogical and teaching concepts to understand how people learn. We use well structured training material with comprehensive training notes. We train you through a lot of real life simulations and practice sessions.",
+  "benefits_of_ttt": [
+    "Design result focused programs and PPTs",
+    "Improve your presence",
+    "Identify the audience responses and reactions",
+    "Improve Group dynamics and handle hecklers",
+    "Deliver high impact programs",
+    "Video and audio recording for real time feedback"
+  ],
+  "skillsbucket_competency_offerings": [
+    {
+      "target_group": "First time Facilitators",
+      "description": "Two day Experiential program for the new facilitators to deliver impactful program keeping the audience energy levels high. Practical tips to look confident and present flawlessly."
+    },
+    {
+      "target_group": "Subject matter experts",
+      "description": "Two day experiential program for the subject matter experts to understand the learners psychological set up to deliver effective programs."
+    },
+    {
+      "target_group": "Internal trainers",
+      "description": "Two day experiential program for internal trainers to understand the audience needs and delivery confidently."
+    }
+  ],
+  "specific_ttt_topics": [
+    "Emotional Intelligence",
+    "Design Thinking",
+    "Outsmarting VUCA",
+    "Leadership Skills",
+    "Selling Skills"
+  ],
+  "footer": {
+    "copyright": "Copyright ©2021 Skillsbucket . All rights reserved."
+  }
+}

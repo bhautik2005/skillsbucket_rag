@@ -1,0 +1,38 @@
+[
+  {
+    "id": "sb_about_001",
+    "category": "Company Overview",
+    "title": "About Skillsbucket & Our Facilitators",
+    "content": "Skillsbucket works collaboratively to deliver the best Learning and Development solutions for clients. Knowledge and passion drive the trainers at Skillsbucket. The passion for enabling learning, facilitating, and training is what sets us apart. Each trainer is highly experienced with different training methodologies and approaches every intervention with a creatively planned approach. We continuously upgrade our training programs, content, and methodology for effective delivery."
+  },
+  {
+    "id": "sb_about_002",
+    "category": "Leadership Profile",
+    "title": "Amrita Desai - Founder & Lead Trainer",
+    "content": "Amrita Desai is the Founder & Lead Trainer at Skillsbucket. She is a senior behavioral skills trainer and NLP Practitioner, armed with a rich corporate experience of 22 years working across the UK and India. She trains more than 10,000 professionals every year, PAN India. Her training programs are interactive, engaging, and highly impactful as she adeptly utilizes her insights from working with various industries, cultures, and organizations. She has successfully facilitated training programs across sectors including IT, Pharmaceuticals, BFSI, Manufacturing, Automotive, Infrastructure, and Social Sectors."
+  },
+  {
+    "id": "sb_about_003",
+    "category": "Company Values",
+    "title": "Skillsbucket Core Value - Constant Improvement",
+    "content": "We believe in improving ourselves constantly. Small improvements can make a big difference. Our focus is not only on the end product but on every tiny step in the process. We stretch our expectations and redefine our limits, making us highly adaptable and effective."
+  },
+  {
+    "id": "sb_about_004",
+    "category": "Company Values",
+    "title": "Skillsbucket Core Value - Integrity and Trust",
+    "content": "We stress doing the right thing ethically and morally. We take our commitments very seriously and go beyond the written word to act in a rightful way with all stakeholders. Being honest and ethical is of prime importance to us."
+  },
+  {
+    "id": "sb_about_005",
+    "category": "Company Values",
+    "title": "Skillsbucket Core Value - Customer Centric",
+    "content": "Our world revolves around our customers. We treat both our internal and external customers with huge respect. We develop solutions that improve the value proposition for the customer and strive hard to go beyond and delight the customer at every touchpoint."
+  },
+  {
+    "id": "sb_about_006",
+    "category": "Company Values",
+    "title": "Skillsbucket Core Value - Entrepreneurial and Passionate",
+    "content": "We reimagine the possible. We constantly endeavor to find new, interesting, and effective ways to get things done. We appreciate people who are passionate and bring new ideas to the table."
+  }
+]

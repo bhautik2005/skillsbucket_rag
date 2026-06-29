@@ -1,0 +1,30 @@
+{
+  "page_title": "Accelerating Change Through Coaching",
+  "quote": {
+    "text": "Everyone needs a coach. It doesn't matter whether you're a leader, CEO, basketball player, a tennis player, a gymnast or a bridge player.",
+    "author": "Bill Gates"
+  },
+  "coaching_definition": "Coaching is defined as a partnership with clients in a thought-provoking and a creative process that inspires them to maximize their personal and professional potential.",
+  "business_context": "All leaders face moments, when the competencies that made them successful in the past are no longer adequate in the current scenario. Taking on a new or more senior role, managing a new initiative and leading change in the organization all require fresh outlook. We at Skillsbucket, help the leaders unleash their potential and increase their impact. Our coaching sessions help them gain new insights and experiment various approaches that will take them to the next level of performance.",
+  "benefits_of_executive_coaching": [
+    "Individual oriented",
+    "Goals alignment and clarity",
+    "Recognise stakeholder’s expectations",
+    "Result focused learning",
+    "Competency gap identification",
+    "Time bound action plans"
+  ],
+  "skillsbucket_executive_coaching_offerings": [
+    {
+      "program_name": "Leadership Coaching",
+      "description": "At Skillsbucket, we understand the complex situations that executives face in a challenging business environment. Our executive coaching sessions support leaders through well designed, result oriented models and approach that helps in strategic planning, competency building and bettering business productivity."
+    },
+    {
+      "program_name": "Managerial Coaching",
+      "description": "Managers balance both the upward and the downward communication while juggling multiple issues which can be a daunting. Our coaching sessions can help managers not only improve their skills, but strike a balance by managing people’s expectations assertively and align them with the company’s goals."
+    }
+  ],
+  "footer": {
+    "copyright": "Copyright ©2021 Skillsbucket . All rights reserved."
+  }
+}

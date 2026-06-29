@@ -1,0 +1,75 @@
+# # Skillsbucket RAG — Full Stack Requirements
+# # Install: pip install -r requirements.txt
+
+# # LangChain core + LCEL
+# # langchain-core==0.3.28
+# langchain-core >=0.3.74
+# langchain-community==0.3.28
+# langchain-huggingface==0.1.2
+# langchain-mistralai==0.2.4
+# langchain
+# # Vector database
+# chromadb==0.6.3
+
+# # Embeddings (local, free)
+# sentence-transformers==4.1.0
+
+# # LLM providers (use ONE or BOTH)
+# mistralai==1.8.2          # for ChatMistralAI
+
+# # Backend API
+# fastapi==0.115.12
+# uvicorn==0.34.3
+# pydantic==2.11.4
+
+# # Frontend
+# streamlit==1.45.1
+# requests==2.32.3
+
+# # Utilities
+# python-dotenv==1.1.0
+# Core
+
+langchain>=0.3.27
+langchain-community>=0.4.1
+langchain-core>=1.2.20
+langchain-text-splitters
+langchain-chroma
+langchain-google-genai
+langchain-openai
+langchain-mistralai
+
+# Embeddings
+
+sentence-transformers>=4.1.0
+transformers
+torch
+
+# Vector Database
+
+chromadb>=1.0.15
+
+# Backend
+
+fastapi
+uvicorn
+python-dotenv
+pydantic
+
+# Frontend
+
+streamlit
+requests
+
+# Document Processing
+
+python-docx
+pypdf
+unstructured
+
+# Utilities
+
+numpy
+pandas
+tqdm
+orjson

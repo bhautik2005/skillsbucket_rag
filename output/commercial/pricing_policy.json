@@ -1,0 +1,27 @@
+{
+    "currency": "INR",
+
+    "training_courses": {
+        "pricing_per_day": {
+            "1": 25000,
+            "2": 45000,
+            "3": 65000,
+            "4": 85000,
+            "5": 100000
+        },
+
+        "mode_multiplier": {
+            "online": 1.0,
+            "offline": 1.2,
+            "hybrid": 1.1
+        }
+    },
+
+    "short_courses": {
+        "fixed_price": {
+            "online": 8000,
+            "offline": 12000,
+            "hybrid": 10000
+        }
+    }
+}
