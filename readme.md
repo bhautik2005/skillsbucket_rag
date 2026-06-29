@@ -3,6 +3,8 @@
 An advanced, AI-powered corporate training assistant built using a **Retrieval-Augmented Generation (RAG)** pipeline. This application facilitates corporate sales and training consultants by providing instant, verified details about training programs, commercial pricing policies, and terms, and automating the creation of high-quality, customized client proposals.
 
 ---
+👉 **[[AI-Based Anemia Detection System | Clinical Data + Eye Image CNN | End-to-End Showcase](https://drive.google.com/file/d/1yQecU9LjWp7E-3iObfklDrPYcdEwDbFI/view?usp=drive_link)**
+---
 
 ## 📸 Application Screenshots
 
