@@ -47,14 +47,14 @@ The following flowchart illustrates the ingestion pipeline and the runtime RAG a
 ```mermaid
 graph TD
     %% Ingestion Pipeline
-    subgraph Ingestion Phase (Run Once)
+    subgraph "Ingestion Phase (Run Once)"
         JSON[Raw JSON Data<br>output/ folder] -->|1. Read & Parse| Ingest[ingest.py]
         Ingest -->|2. Chunking & Metadata tagging| HF[HuggingFace Embeddings<br>all-MiniLM-L6-v2]
         HF -->|3. Store Vectors| Chroma[Chroma DB<br>./chroma_db]
     end
 
     %% Application Server & Client
-    subgraph Run-Time Execution (Dual-System)
+    subgraph "Run-Time Execution (Dual-System)"
         User[Consultant / User] -->|4. Input details & Interact| Streamlit[Streamlit Frontend<br>interface.py]
         Streamlit -->|5a. Ask Question| ChatAPI[FastAPI /chat API]
         Streamlit -->|5b. Generate Proposal| PropAPI[FastAPI /proposal API]
